@@ -1,3 +1,21 @@
 # React Project 📝
 
-## new changes added
+## Planning
+
+**Header**
+
+- Logo
+- Nav Items
+
+**Body**
+
+- Search
+- RestaurentContainer
+- RestaurentCards
+
+**Footer**
+
+- CopyRight
+- Links
+- Address
+- Contact
